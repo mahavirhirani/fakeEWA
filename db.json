@@ -1,0 +1,57 @@
+{
+ "EWA_GREEN": [
+        {
+            "rfcno": "SAPEWA56194956",
+            "TicketStage": "DONE",
+            "TLOName": "Adel  Abdelhaoui",
+            "Region": "MEA",
+            "subject": "0001112961-PO3~JAVA_No Rating (Undefined)_EWA"
+        },
+        {
+            "rfcno": "SAPEWA56150237",
+            "TicketStage": "DONE",
+            "TLOName": "Adel  Abdelhaoui",
+            "Region": "MEA",
+            "subject": "0001112961-PC6~ABAP_No Rating (Undefined)_EWA"
+        }
+    ],
+    "EWA_RED": [
+        {
+            "rfcno": "SAPEWA56195709",
+            "TicketStage": "DONE",
+            "TLOName": "Adel  Abdelhaoui",
+            "Region": "MEA",
+            "subject": "0001112961-GF3~ABAP_Very Critical (Red)_EWA"
+        },
+        {
+            "rfcno": "SAPEWA56196318",
+            "TicketStage": "DONE",
+            "TLOName": "Adel  Abdelhaoui",
+            "Region": "MEA",
+            "subject": "0001112961-GH3~HANADB_Very Critical (Red)_EWA"
+        }
+    ],
+    "EWA_YELLOW": [
+        {
+            "rfcno": "SAPEWA63397728",
+            "TicketStage": "DONE",
+            "TLOName": "Adel  Abdelhaoui",
+            "Region": "MEA",
+            "subject": "0001112961-GH4~HANADB_Critical (Yellow)_EWA"
+        },
+        {
+            "rfcno": "SAPEWA63770812",
+            "TicketStage": "DONE",
+            "TLOName": "Adel  Abdelhaoui",
+            "Region": "MEA",
+            "subject": "0001112961-HD7~HANADB_Critical (Yellow)_EWA"
+        },
+        {
+            "rfcno": "SAPEWA63770935",
+            "TicketStage": "DONE",
+            "TLOName": "Adel  Abdelhaoui",
+            "Region": "MEA",
+            "subject": "0001112961-HD4~HANADB_Critical (Yellow)_EWA"
+        }
+    ],
+}
