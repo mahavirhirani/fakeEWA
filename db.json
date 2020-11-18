@@ -234,42 +234,6 @@
       "lastactivity": "29d 0h 21m",
       "url": "http://myshift1.ctrls.in/itil/cwfsap/getcwfdetails/Njg1MTgyMzE=",
       "resolveid": "N/A"
-    },
-    {
-      "itilticketid": "68691600",
-      "rfcno": "TSK68691600",
-      "ticketid": "133276311",
-      "departmentid": "1306",
-      "department": "C4C_SAP-PM",
-      "statustitle": "Open",
-      "ownerstaffname": "Samad Mohiuddin",
-      "replyto": "naveen.m@cloud4c.com",
-      "subject": "RE: ADNOC -  File Systems NFS Storage 50 GB  || IP : 10.249.4.1",
-      "tickettypetitle": "Task",
-      "groupid": "760",
-      "groupname": "C4C_SAP PM",
-      "lastreplier": "Naveen Kumar Manikonda",
-      "lastactivity": "25d 21h 57m",
-      "url": "http://myshift1.ctrls.in/itil/ts/getTsdetails/Njg2OTE2MDA=",
-      "resolveid": "N/A"
-    },
-    {
-      "itilticketid": "69220252",
-      "rfcno": "TSK69220252",
-      "ticketid": "133946809",
-      "departmentid": "1306",
-      "department": "C4C_SAP-PM",
-      "statustitle": "Open",
-      "ownerstaffname": "Sameer Relan",
-      "replyto": "opf@ctrls.in",
-      "subject": "SAP - UAE - ABU DHABI  NATIONAL OIL COMPANY::UAE-MEST-Sol-Upg-65877",
-      "tickettypetitle": "Task",
-      "groupid": "760",
-      "groupname": "C4C_SAP PM",
-      "lastreplier": "Microsoft Outlook",
-      "lastactivity": "15d 12h 44m",
-      "url": "http://myshift1.ctrls.in/itil/ts/getTsdetails/NjkyMjAyNTI=",
-      "resolveid": "N/A"
     }
   ],
   "SAP_PENDING": [
