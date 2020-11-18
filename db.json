@@ -271,5 +271,39 @@
       "url": "http://myshift1.ctrls.in/itil/ts/getTsdetails/NjkyMjAyNTI=",
       "resolveid": "N/A"
     }
+  ],
+  "SAP_PENDING": [
+    {
+      "Customer": "Sumitomo",
+      "Project": "OSS Backbone",
+      "Status": "Pending"
+    },
+    {
+      "Customer": "Sumitomo",
+      "Project": "CMDB",
+      "Status": "Pending"
+    },
+    {
+      "Customer": "Sumitomo",
+      "Project": "Security Hardending",
+      "Status": "Pending"
+    }
+  ],
+  "SAP_COMPLETED": [
+    {
+      "Customer": "Sumitomo",
+      "Project": "Landscape",
+      "Status": "Completed"
+    },
+    {
+      "Customer": "Sumitomo",
+      "Project": "CMDB",
+      "Status": "Completed"
+    },
+    {
+      "Customer": "Sumitomo",
+      "Project": "SAP Support",
+      "Status": "Completed"
+    }
   ]
 }
