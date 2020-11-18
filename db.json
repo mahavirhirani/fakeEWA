@@ -252,22 +252,5 @@
       "Project": "Security Hardending",
       "Status": "Pending"
     }
-  ],
-  "SAP_COMPLETED": [
-    {
-      "Customer": "Sumitomo",
-      "Project": "Landscape",
-      "Status": "Completed"
-    },
-    {
-      "Customer": "Sumitomo",
-      "Project": "CMDB",
-      "Status": "Completed"
-    },
-    {
-      "Customer": "Sumitomo",
-      "Project": "SAP Support",
-      "Status": "Completed"
-    }
   ]
 }
