@@ -235,22 +235,5 @@
       "url": "http://myshift1.ctrls.in/itil/cwfsap/getcwfdetails/Njg1MTgyMzE=",
       "resolveid": "N/A"
     }
-  ],
-  "SAP_PENDING": [
-    {
-      "Customer": "Sumitomo",
-      "Project": "OSS Backbone",
-      "Status": "Pending"
-    },
-    {
-      "Customer": "Sumitomo",
-      "Project": "CMDB",
-      "Status": "Pending"
-    },
-    {
-      "Customer": "Sumitomo",
-      "Project": "Security Hardending",
-      "Status": "Pending"
-    }
   ]
 }
