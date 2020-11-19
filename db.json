@@ -54,6 +54,29 @@
       "Subject": "0001112961-HD4~HANADB_Critical (Yellow)_EWA"
     }
   ],
+    "EWA_GREY": [
+    {
+      "RfcNo": "SAPEWA63397728",
+      "TicketStage": "DONE",
+      "TLO Name": "Adel  Abdelhaoui",
+      "Region": "MEA",
+      "Subject": "0001112961-GH4~HANADB_Critical (Yellow)_EWA"
+    },
+    {
+      "RfcNo": "SAPEWA63770812",
+      "TicketStage": "DONE",
+      "TLO Name": "Adel  Abdelhaoui",
+      "Region": "MEA",
+      "Subject": "0001112961-HD7~HANADB_Critical (Yellow)_EWA"
+    },
+    {
+      "RfcNo": "SAPEWA63770935",
+      "TicketStage": "DONE",
+      "TLO Name": "Adel  Abdelhaoui",
+      "Region": "MEA",
+      "Subject": "0001112961-HD4~HANADB_Critical (Yellow)_EWA"
+    }
+  ],
   "MY_SHIFT": [
     {
       "itilticketid": "59061777",
